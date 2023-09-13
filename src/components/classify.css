@@ -1,0 +1,18 @@
+.table-classify{
+    align-items: center;
+    height: 60%;
+    background-color: #001529;
+    color: aliceblue;
+    border-radius: 12px;
+}
+
+.table-classify td{
+    align-items: center;
+    border-bottom: 1px solid #eee;
+
+}
+
+/* .container-table{
+    display: flex;
+    align-items: center;
+} */
