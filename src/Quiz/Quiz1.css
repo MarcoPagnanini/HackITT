@@ -1,0 +1,8 @@
+.center-div {
+    display: flex;
+    justify-content: center;
+}
+
+#vh-80{
+    width: 80% !important; 
+}

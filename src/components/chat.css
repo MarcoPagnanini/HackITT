@@ -1,0 +1,33 @@
+.navbar {
+  /* display: contents; */
+
+  color: #001529 !important;
+  background-color: #001529 !important;
+}
+#navbar {
+  display: contents;
+  border: #00305e;
+  border-top: 12px solid;
+  color: white !important;
+}
+.container-navbar {
+  background-color: #001529 !important;
+  display: flex;
+  justify-content: center;
+
+  align-items: center;
+  /* border: none; rimuovi i bordi da TUTTI i lati del container */
+    /* border: #ffff solid 0.5px !important; */
+  /* border-left: solid 2px #00305e; impostare solo il bordo sinistro */
+  border-radius: 12px 0% 0% 12px; /* curva solo il bordo sinistro */
+
+  display: flex;
+}
+.footer {
+  background: #001529 !important;
+  background-color: #001529 !important;
+  color: white !important;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
